@@ -103,7 +103,7 @@ require('dotenv').config();
 
 ___
 
-[superagent](https://www.npmjs.com/package/axios) "A package used to send requests over the internet to other servers or APIs"
+[axios](https://www.npmjs.com/package/axios) "A package used to send requests over the internet to other servers or APIs"
 
 - install
 
