@@ -8,6 +8,7 @@ Table of content:
 - [Heroku Cheat Sheet](content/heroku.md).
 - [.env Cheat Sheet](content/env.md).
 - [Mongo Cheat Sheet](content/mongo.md).
+- [Mongoose Cheat Sheet](content/mongoose.md).
 
 [Author](https://github.com/thamudi)
 [License](LICENSE)
