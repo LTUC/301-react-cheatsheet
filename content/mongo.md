@@ -262,4 +262,6 @@ db.collection_name.find({ views: { $lte: 7 } })
 
 ---
 
+[Credit Source 🔗](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+
 [⇐ GO BACK](../README.md)
