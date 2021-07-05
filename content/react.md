@@ -117,3 +117,5 @@ ___
 - When the state object changes, the component re-renders.
 
 ___
+
+[⇐ GO BACK](../README.md)
