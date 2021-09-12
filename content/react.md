@@ -36,7 +36,7 @@ ___
 
 ## React Used Packages in this course
 
-- [React Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction) "A React package that add the bootstrap css Library as component"
+- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction) "A React package that add the bootstrap css Library as component"
 
 ```shell
 npm install react-bootstrap bootstrap
